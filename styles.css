@@ -1,5 +1,12 @@
+
+.some-class{
+    background-color: magenta;
+}
+
+
 img {
-  width: 100px;
+    width: 100px;
+    border-radius: 2%;
 }
 
 .some-class {
