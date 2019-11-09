@@ -1,8 +1,14 @@
+
 .some-class{
     background-color: magenta;
 }
 
-img{
-    width: 300px;
+
+img {
+    width: 100px;
     border-radius: 2%;
+}
+
+.some-class {
+  background-color: magenta;
 }
