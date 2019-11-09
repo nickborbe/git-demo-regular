@@ -1,1 +1,1 @@
-this is a new line
+This is going to be the new line of text that is being added now
